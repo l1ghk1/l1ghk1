@@ -18,10 +18,10 @@
 ```yaml
 whoami:
   alias     : l1ghk1
-  focus     : [ APIs, networking, systems ]
+  focus     : [ APIs, Backend, Frontend ]
   languages : [ JavaScript, Python, Nim ]
-  status    : always_building
-  open_to   : collaborations & interesting problems
+  status    : Exploit
+  open_to   : Collabs
 ```
 
 ---
@@ -52,7 +52,7 @@ whoami:
 <div align="center">
 
 ```
-apis  .  networking  .  nim  .  always shipping
+JavaScript  -  Nim  -  Python
 ```
 
 </div>
