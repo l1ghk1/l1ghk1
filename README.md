@@ -28,6 +28,16 @@ whoami:
 
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=l1ghk1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ghk1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=5" />
 
