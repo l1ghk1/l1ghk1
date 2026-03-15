@@ -9,7 +9,7 @@
 ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝
 ```
 
-[![visitors](https://komarev.com/ghpvc/?username=l1ghk1&color=red&style=flat-square&label=visitors)](https://github.com/l1ghk1)
+[[visitors](https://komarev.com/ghpvc/?username=l1ghk1&color=red&style=flat-square&label=visitors)](https://github.com/l1ghk1)
 
 </div>
 
