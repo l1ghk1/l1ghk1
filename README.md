@@ -1,18 +1,13 @@
 <div align="center">
 
-```
-$$\   $$\            $$\        $$\     
-$$ |$$$$ |           $$ |       $$ |    
-$$ |\_$$ |  $$$$$$\  $$$$$$$\ $$$$$$\   
-$$ |  $$ | $$  __$$\ $$  __$$\\_$$  _|  
-$$ |  $$ | $$ /  $$ |$$ |  $$ | $$ |    
-$$ |  $$ | $$ |  $$ |$$ |  $$ | $$ |$$\ 
-$$ |$$$$$$\\$$$$$$$ |$$ |  $$ | \$$$$  |
-\__|\______|\____$$ |\__|  \__|  \____/ 
-           $$\   $$ |                   
-           \$$$$$$  |                   
-            \______/                    
-```
+​```
+██╗     ██╗ ██████╗ ██╗  ██╗████████╗
+██║     ██║██╔════╝ ██║  ██║╚══██╔══╝
+██║     ██║██║  ███╗███████║   ██║   
+██║     ██║██║   ██║██╔══██║   ██║   
+███████╗██║╚██████╔╝██║  ██║   ██║   
+╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
+​```
 
 [![visitors](https://komarev.com/ghpvc/?username=l1ght&color=red&style=flat-square&label=visitors)](https://github.com/l1ght)
 
@@ -20,14 +15,14 @@ $$ |$$$$$$\\$$$$$$$ |$$ |  $$ | \$$$$  |
 
 ---
 
-```yaml
+​```yaml
 whoami:
   alias     : l1ght
   focus     : [ APIs, networking, systems ]
   languages : [ JavaScript, Python, Nim ]
   status    : always_building
   open_to   : collaborations & interesting problems
-```
+​```
 
 ---
 
@@ -56,8 +51,8 @@ whoami:
 
 <div align="center">
 
-```
+​```
 apis  .  networking  .  nim  .  always shipping
-```
+​```
 
 </div>
