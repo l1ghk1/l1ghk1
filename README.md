@@ -1,28 +1,27 @@
+````
 <div align="center">
-
-​```
+````
 ██╗     ██╗ ██████╗ ██╗  ██╗████████╗
 ██║     ██║██╔════╝ ██║  ██║╚══██╔══╝
 ██║     ██║██║  ███╗███████║   ██║   
 ██║     ██║██║   ██║██╔══██║   ██║   
 ███████╗██║╚██████╔╝██║  ██║   ██║   
 ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
-​```
+````
 
 [![visitors](https://komarev.com/ghpvc/?username=l1ght&color=red&style=flat-square&label=visitors)](https://github.com/l1ght)
 
 </div>
 
 ---
-
-​```yaml
+```yaml
 whoami:
   alias     : l1ght
   focus     : [ APIs, networking, systems ]
   languages : [ JavaScript, Python, Nim ]
   status    : always_building
   open_to   : collaborations & interesting problems
-​```
+```
 
 ---
 
@@ -50,9 +49,9 @@ whoami:
 ---
 
 <div align="center">
-
-​```
-apis  .  networking  .  nim  .  always shipping
-​```
+````
+APIs  .  Networking  .  Nim 
+````
 
 </div>
+````
