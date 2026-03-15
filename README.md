@@ -1,4 +1,3 @@
-````
 <div align="center">
 ````
 ██╗     ██╗ ██████╗ ██╗  ██╗████████╗
@@ -50,8 +49,7 @@ whoami:
 
 <div align="center">
 ````
-APIs  .  Networking  .  Nim 
+apis  .  networking  .  nim  .  always shipping
 ````
 
 </div>
-````
