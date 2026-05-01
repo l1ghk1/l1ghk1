@@ -18,7 +18,7 @@
 ```yaml
 whoami:
   alias     : l1ghk1
-  focus     : [ APIs, Backend, Frontend ]
+  focus     : [ APIs, Malw, Kernel ]
   languages : [ JavaScript, Python, Nim ]
   status    : Exploit
   open_to   : Collabs
